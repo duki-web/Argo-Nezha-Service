@@ -324,7 +324,7 @@ oauth2:
   clientsecret: "$GH_CLIENTSECRET"
   endpoint: "" # 如gitea自建需要设置
 site:
-  brand: "Nezha Probe"
+  brand: "服务器集群"
   cookiename: "nezha-dashboard" #浏览器 Cookie 字段名，可不改
   theme: "default"
 EOF
